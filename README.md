@@ -2,7 +2,7 @@
 
 I am a professional passionate about creating innovative solutions, with solid experience in development, systems architecture and project leadership. Throughout my career, I seek to contribute to dynamic and innovative teams, focused on problem solving. I am always looking for challenges that allow me to develop creative and efficient solutions.
 
-<p align="left"> <a href="https://twitter.com/amarildomgl" target="blank"><img src="https://img.shields.io/twitter/follow/amarildomiguel?logo=twitter&style=for-the-badge" alt="amarildomgl" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amarildomgl" target="blank"><img src="https://img.shields.io/twitter/follow/amarildomgl?logo=twitter&style=for-the-badge" alt="amarildomgl" /></a> </p>
 
 
 
@@ -22,7 +22,7 @@ object **DEVELOPER** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/amarildomiguel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarildomgl&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarildomiguel&theme=dracula&hide_langs_below=1" />
 </a>
 
 [twitter]: https://twitter.com/amarildomgl
