@@ -42,7 +42,7 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/amarildo-miguel-834b9a188" target="_blank">
+  <a href="https://linkedin.com/in/amarildomgl" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://mailto:amarildomgl@gmail.com" target="_blank">
